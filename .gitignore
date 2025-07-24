@@ -1,4 +1,5 @@
 dataset/
+dataset_split/
 raw_dataset/
 preprocessed_dataset/
 .venv/
