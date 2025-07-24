@@ -1,0 +1,8 @@
+dataset/
+raw_dataset/
+preprocessed_dataset/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
